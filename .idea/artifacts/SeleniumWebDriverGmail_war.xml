@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="SeleniumWebDriverGmail:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Selenium WebDriver Gmail.war">
+      <element id="artifact" artifact-name="SeleniumWebDriverGmail:war exploded" />
+    </root>
+  </artifact>
+</component>
